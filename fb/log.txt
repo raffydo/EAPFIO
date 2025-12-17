@@ -5573,3 +5573,5 @@
 [√] Frame: 3343, Episode 02 https://facebook.com/122109735543135819
 [√] Frame: 3344, Episode 02 https://facebook.com/122109736119135819
 [√] Frame: 3345, Episode 02 https://facebook.com/122109737013135819
+[√] Frame: 3346, Episode 02 https://facebook.com/122109755937135819
+[√] Frame: 3347, Episode 02 https://facebook.com/122109756519135819
